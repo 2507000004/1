@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: b044167040959d443843121076e45e0c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 03-Pig_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 80
+      height: 80
+    spriteID: 41b89b80fee1a24499c88726563bca8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 03-Pig_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 80
+      height: 80
+    spriteID: 74ec5b93bd3cad54b87c81841a517004
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: 03-Pig_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 80
+      height: 80
+    spriteID: 33670ba7a640b114687399ed87172507
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: 03-Pig_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 268
+      width: 80
+      height: 80
+    spriteID: 8596af54341f4be4c9b351253ce1cb65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 268}
+  - name: 03-Pig_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 356
+      width: 80
+      height: 80
+    spriteID: 31c77958084597046bf45b07146084a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 356}
+  - name: 03-Pig_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 444
+      width: 80
+      height: 80
+    spriteID: 0b7c4708855cf434fb9a736f67e25f48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 444}
+  - name: 03-Pig_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 80
+      height: 80
+    spriteID: e23c83de157d7a4469b286d8f3dc5c53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+  - name: 03-Pig_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 620
+      width: 80
+      height: 80
+    spriteID: 3e63703609f709f4693fe53b9191af0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 620}
+  - name: 03-Pig_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 708
+      width: 80
+      height: 80
+    spriteID: 4bd54e46f4b4e3d4fb60470676984bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 708}
+  - name: 03-Pig_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 796
+      width: 80
+      height: 80
+    spriteID: 4a36ab7866c7f0c4686cbd4240b823d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 796}
+  - name: 03-Pig_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 884
+      width: 80
+      height: 80
+    spriteID: e5059ff086ab7044ab02ec6325348bb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 884}
+  - name: 03-Pig_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 80
+      height: 80
+    spriteID: 6a929678621a82442acddc3cc196c48d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 4}
+  - name: 03-Pig_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 92
+      width: 80
+      height: 80
+    spriteID: ea9bb3574fbe8f74e858c872706de15f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 92}
+  - name: 03-Pig_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 180
+      width: 80
+      height: 80
+    spriteID: c69c138c14f95da47b678e94f4c14649
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 180}
+  - name: 03-Pig_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 268
+      width: 80
+      height: 80
+    spriteID: c435727c7f429664dad52087654dc70e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 268}
+  - name: 03-Pig_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 356
+      width: 80
+      height: 80
+    spriteID: 3e837a8196cd4a246a9b23ada6394d29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 356}
+  - name: 03-Pig_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 444
+      width: 80
+      height: 80
+    spriteID: de8b58dbeebc2de40b3e0de3fe1316bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 444}
+  - name: 03-Pig_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 532
+      width: 80
+      height: 80
+    spriteID: c8ea623c2d48e7a4f84afaafa3ec3d9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 532}
+  - name: 03-Pig_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 620
+      width: 80
+      height: 80
+    spriteID: 0fa37346474778347a3a7bba908293d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 620}
+  - name: 03-Pig_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 708
+      width: 80
+      height: 80
+    spriteID: c18b15e607ba26d419cf3a9b38a3f948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 708}
+  - name: 03-Pig_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 796
+      width: 80
+      height: 80
+    spriteID: 87dd8297e11df1848b6a8a27ecab9689
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 796}
+  - name: 03-Pig_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 884
+      width: 80
+      height: 80
+    spriteID: 568d56c4972c6534eab70470857fe154
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 884}
+  - name: 03-Pig_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 4
+      width: 80
+      height: 80
+    spriteID: d54f15c642a323a448e333a0368a2e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 4}
+  - name: 03-Pig_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 92
+      width: 80
+      height: 80
+    spriteID: 7fd44609b38a6d74bbdc5ac87cb34af6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 92}
+  - name: 03-Pig_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 180
+      width: 80
+      height: 80
+    spriteID: 374a07b40a5b8bd4f8b2e089dfa46c30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 180}
+  - name: 03-Pig_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 268
+      width: 80
+      height: 80
+    spriteID: 865f3ba2b092ba64396715c03f8fcbca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 268}
+  - name: 03-Pig_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 356
+      width: 80
+      height: 80
+    spriteID: a21f604df7a09f24e8a7481289b2a9b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 356}
+  - name: 03-Pig_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 444
+      width: 80
+      height: 80
+    spriteID: 0e6b55e387a3fd04e94df301ad0bf4a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 444}
+  - name: 03-Pig_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 532
+      width: 80
+      height: 80
+    spriteID: 5b5cab59e8e1e704e8cd9131539326e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 532}
+  - name: 03-Pig_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 620
+      width: 80
+      height: 80
+    spriteID: 55ecfe7d928f43f4290a939ebdf49835
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 620}
+  - name: 03-Pig_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 708
+      width: 80
+      height: 80
+    spriteID: e042ca65611f21b41863d1461e64d71f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 708}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1725920894
+    name: 03-Pig
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 03-Pig_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 41b89b80fee1a24499c88726563bca8b
+    - name: 03-Pig_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 74ec5b93bd3cad54b87c81841a517004
+    - name: 03-Pig_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 33670ba7a640b114687399ed87172507
+    - name: 03-Pig_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8596af54341f4be4c9b351253ce1cb65
+    - name: 03-Pig_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 31c77958084597046bf45b07146084a8
+    - name: 03-Pig_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0b7c4708855cf434fb9a736f67e25f48
+    - name: 03-Pig_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e23c83de157d7a4469b286d8f3dc5c53
+    - name: 03-Pig_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3e63703609f709f4693fe53b9191af0f
+    - name: 03-Pig_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4bd54e46f4b4e3d4fb60470676984bbc
+    - name: 03-Pig_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4a36ab7866c7f0c4686cbd4240b823d5
+    - name: 03-Pig_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e5059ff086ab7044ab02ec6325348bb5
+    - name: 03-Pig_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6a929678621a82442acddc3cc196c48d
+    - name: 03-Pig_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ea9bb3574fbe8f74e858c872706de15f
+    - name: 03-Pig_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c69c138c14f95da47b678e94f4c14649
+    - name: 03-Pig_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c435727c7f429664dad52087654dc70e
+    - name: 03-Pig_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3e837a8196cd4a246a9b23ada6394d29
+    - name: 03-Pig_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: de8b58dbeebc2de40b3e0de3fe1316bc
+    - name: 03-Pig_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c8ea623c2d48e7a4f84afaafa3ec3d9e
+    - name: 03-Pig_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0fa37346474778347a3a7bba908293d9
+    - name: 03-Pig_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c18b15e607ba26d419cf3a9b38a3f948
+    - name: 03-Pig_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 87dd8297e11df1848b6a8a27ecab9689
+    - name: 03-Pig_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 568d56c4972c6534eab70470857fe154
+    - name: 03-Pig_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d54f15c642a323a448e333a0368a2e8d
+    - name: 03-Pig_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7fd44609b38a6d74bbdc5ac87cb34af6
+    - name: 03-Pig_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 374a07b40a5b8bd4f8b2e089dfa46c30
+    - name: 03-Pig_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 865f3ba2b092ba64396715c03f8fcbca
+    - name: 03-Pig_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a21f604df7a09f24e8a7481289b2a9b6
+    - name: 03-Pig_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0e6b55e387a3fd04e94df301ad0bf4a1
+    - name: 03-Pig_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b5cab59e8e1e704e8cd9131539326e9
+    - name: 03-Pig_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 55ecfe7d928f43f4290a939ebdf49835
+    - name: 03-Pig_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e042ca65611f21b41863d1461e64d71f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

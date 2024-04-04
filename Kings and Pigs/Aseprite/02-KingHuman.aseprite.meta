@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: d455923e049c82c4187e7a36192a1719
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 02-KingHuman_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 96
+      height: 96
+    spriteID: f1ffb5366d2e2c64fb45582a1701e99e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 02-KingHuman_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 96
+      height: 96
+    spriteID: 29c2d83d55a496b45a7f4642b7389fac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: 02-KingHuman_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 96
+      height: 96
+    spriteID: 0c4e8b9cf15f5314986bb0e42eeb00c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: 02-KingHuman_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 316
+      width: 96
+      height: 96
+    spriteID: 578df9b2b60b2664587a2275112c0e51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 316}
+  - name: 02-KingHuman_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 96
+      height: 96
+    spriteID: d0c0910f1266c5947a9dd689feaf4ed4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 420}
+  - name: 02-KingHuman_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 96
+      height: 96
+    spriteID: 3282734a8b0652746bda3be53599048d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 524}
+  - name: 02-KingHuman_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 628
+      width: 96
+      height: 96
+    spriteID: 30d69ccb694aa51418ea969826599933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 628}
+  - name: 02-KingHuman_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 732
+      width: 96
+      height: 96
+    spriteID: 39372be587c71ce4abc4bc8e3b586d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 732}
+  - name: 02-KingHuman_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 836
+      width: 96
+      height: 96
+    spriteID: 38ccbb334a444b94f8b0610d9794b30b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 836}
+  - name: 02-KingHuman_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 0a4449d2d90b0dc4c9302b26e2f6585e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 4}
+  - name: 02-KingHuman_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 108
+      width: 96
+      height: 96
+    spriteID: cd8d27b12f729414b884a2ad58586adb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 108}
+  - name: 02-KingHuman_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 212
+      width: 96
+      height: 96
+    spriteID: c3f65d8fa00ee9a4194bb59ec9c33e41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 212}
+  - name: 02-KingHuman_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 316
+      width: 96
+      height: 96
+    spriteID: 28f1111b77cd52642bcaed8b4a2e7fca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 316}
+  - name: 02-KingHuman_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 420
+      width: 96
+      height: 96
+    spriteID: 0b7dd6fb8c65c30479754c59188e5b17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 420}
+  - name: 02-KingHuman_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 524
+      width: 96
+      height: 96
+    spriteID: 0df5d8728695626448fc7181f12a7352
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 524}
+  - name: 02-KingHuman_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 628
+      width: 96
+      height: 96
+    spriteID: d7a3151239919884e83ed3b6344bace9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 628}
+  - name: 02-KingHuman_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 732
+      width: 96
+      height: 96
+    spriteID: 2cea69ba4bbec4945b266b4ef35dcac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 732}
+  - name: 02-KingHuman_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 836
+      width: 96
+      height: 96
+    spriteID: 543563a88f895c047a5a641cc62052b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 836}
+  - name: 02-KingHuman_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 19765b4f4d71fce46a3279a4803fa7c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 4}
+  - name: 02-KingHuman_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 108
+      width: 96
+      height: 96
+    spriteID: c3482c923265a4a43a67b22f06c86f6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 108}
+  - name: 02-KingHuman_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 212
+      width: 96
+      height: 96
+    spriteID: 74005fd6995b09646872052d5516e376
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 212}
+  - name: 02-KingHuman_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 316
+      width: 96
+      height: 96
+    spriteID: 9fca9267b55636a47937a2f449dc9b30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 316}
+  - name: 02-KingHuman_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 420
+      width: 96
+      height: 96
+    spriteID: bb5584af387811f44a977ee8ae24db6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 420}
+  - name: 02-KingHuman_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 524
+      width: 96
+      height: 96
+    spriteID: 0d8520bd4c44cb844aba685230201dd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 524}
+  - name: 02-KingHuman_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 628
+      width: 96
+      height: 96
+    spriteID: fa2975c639fa8a84681d7ab7d32f1edb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 628}
+  - name: 02-KingHuman_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 732
+      width: 96
+      height: 96
+    spriteID: 663c603dd499e19468d2ff2751070c85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 732}
+  - name: 02-KingHuman_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 836
+      width: 96
+      height: 96
+    spriteID: 79b054c8fdc10fc45a458380d8e93b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 836}
+  - name: 02-KingHuman_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 1623cdd5e531b7d4989caa5ac666b97a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 4}
+  - name: 02-KingHuman_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 108
+      width: 96
+      height: 96
+    spriteID: 41882500789456d4ca2b4c445d267843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 108}
+  - name: 02-KingHuman_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 212
+      width: 96
+      height: 96
+    spriteID: dba5961f2869c2f438c887682dc39a4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 212}
+  - name: 02-KingHuman_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 316
+      width: 96
+      height: 96
+    spriteID: cc3454c543d96f347a8af1f15664cd56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 316}
+  - name: 02-KingHuman_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 420
+      width: 96
+      height: 96
+    spriteID: 4b9cb4cd2349b38428a6beb7636a9f3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 420}
+  - name: 02-KingHuman_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 524
+      width: 96
+      height: 96
+    spriteID: ca1f206490f895c45a06d4cd4b35908f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 524}
+  - name: 02-KingHuman_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 628
+      width: 96
+      height: 96
+    spriteID: f8ca01ba876b6c443b53fcb62950e9e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 628}
+  - name: 02-KingHuman_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 732
+      width: 96
+      height: 96
+    spriteID: 45e0116966e0d434d9aa3a8bab02540e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 732}
+  - name: 02-KingHuman_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 836
+      width: 96
+      height: 96
+    spriteID: 9af2816639b8b164fafdac611bdcb366
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 836}
+  - name: 02-KingHuman_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 8076a915fc940534bac7d350cc839c2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 4}
+  - name: 02-KingHuman_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 108
+      width: 96
+      height: 96
+    spriteID: c98c3e8a0b316e34ca1a7fc8087ec172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 108}
+  - name: 02-KingHuman_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 212
+      width: 96
+      height: 96
+    spriteID: 4860027d5f151c04887ab86d562adde9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 212}
+  - name: 02-KingHuman_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 316
+      width: 96
+      height: 96
+    spriteID: a535e66052d8fdb44b3bc02fb9856913
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 316}
+  - name: 02-KingHuman_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 420
+      width: 96
+      height: 96
+    spriteID: 1f7a87ad65256454ebd3118f2d590345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 420}
+  - name: 02-KingHuman_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 524
+      width: 96
+      height: 96
+    spriteID: 00595b061e3ebe6408ae605e269a6cc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 524}
+  - name: 02-KingHuman_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 628
+      width: 96
+      height: 96
+    spriteID: c939a7fcd6678f247a11f7228ec06b08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 628}
+  - name: 02-KingHuman_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 732
+      width: 96
+      height: 96
+    spriteID: b0b654b27a450d249b914421468ccaeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 732}
+  - name: 02-KingHuman_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 836
+      width: 96
+      height: 96
+    spriteID: 0f84aaf48dda20940a7f3a6e05d7923a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 836}
+  - name: 02-KingHuman_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 91f15116ff4e2b54dbae028323098bef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 524, y: 4}
+  - name: 02-KingHuman_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 108
+      width: 96
+      height: 96
+    spriteID: 8ae628259301e2a4e8fbb1b71114b41a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 524, y: 108}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 237166259
+    name: 02-KingHuman
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 02-KingHuman_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: f1ffb5366d2e2c64fb45582a1701e99e
+    - name: 02-KingHuman_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 29c2d83d55a496b45a7f4642b7389fac
+    - name: 02-KingHuman_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0c4e8b9cf15f5314986bb0e42eeb00c5
+    - name: 02-KingHuman_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 578df9b2b60b2664587a2275112c0e51
+    - name: 02-KingHuman_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: d0c0910f1266c5947a9dd689feaf4ed4
+    - name: 02-KingHuman_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 3282734a8b0652746bda3be53599048d
+    - name: 02-KingHuman_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 30d69ccb694aa51418ea969826599933
+    - name: 02-KingHuman_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 39372be587c71ce4abc4bc8e3b586d31
+    - name: 02-KingHuman_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 38ccbb334a444b94f8b0610d9794b30b
+    - name: 02-KingHuman_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0a4449d2d90b0dc4c9302b26e2f6585e
+    - name: 02-KingHuman_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: cd8d27b12f729414b884a2ad58586adb
+    - name: 02-KingHuman_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c3f65d8fa00ee9a4194bb59ec9c33e41
+    - name: 02-KingHuman_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 28f1111b77cd52642bcaed8b4a2e7fca
+    - name: 02-KingHuman_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0b7dd6fb8c65c30479754c59188e5b17
+    - name: 02-KingHuman_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0df5d8728695626448fc7181f12a7352
+    - name: 02-KingHuman_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: d7a3151239919884e83ed3b6344bace9
+    - name: 02-KingHuman_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 2cea69ba4bbec4945b266b4ef35dcac1
+    - name: 02-KingHuman_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 543563a88f895c047a5a641cc62052b2
+    - name: 02-KingHuman_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 19765b4f4d71fce46a3279a4803fa7c8
+    - name: 02-KingHuman_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c3482c923265a4a43a67b22f06c86f6f
+    - name: 02-KingHuman_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 74005fd6995b09646872052d5516e376
+    - name: 02-KingHuman_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 9fca9267b55636a47937a2f449dc9b30
+    - name: 02-KingHuman_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: bb5584af387811f44a977ee8ae24db6c
+    - name: 02-KingHuman_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0d8520bd4c44cb844aba685230201dd1
+    - name: 02-KingHuman_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: fa2975c639fa8a84681d7ab7d32f1edb
+    - name: 02-KingHuman_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 663c603dd499e19468d2ff2751070c85
+    - name: 02-KingHuman_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 79b054c8fdc10fc45a458380d8e93b0b
+    - name: 02-KingHuman_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 1623cdd5e531b7d4989caa5ac666b97a
+    - name: 02-KingHuman_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 41882500789456d4ca2b4c445d267843
+    - name: 02-KingHuman_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: dba5961f2869c2f438c887682dc39a4d
+    - name: 02-KingHuman_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: cc3454c543d96f347a8af1f15664cd56
+    - name: 02-KingHuman_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 4b9cb4cd2349b38428a6beb7636a9f3b
+    - name: 02-KingHuman_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: ca1f206490f895c45a06d4cd4b35908f
+    - name: 02-KingHuman_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: f8ca01ba876b6c443b53fcb62950e9e2
+    - name: 02-KingHuman_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 45e0116966e0d434d9aa3a8bab02540e
+    - name: 02-KingHuman_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 9af2816639b8b164fafdac611bdcb366
+    - name: 02-KingHuman_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 8076a915fc940534bac7d350cc839c2b
+    - name: 02-KingHuman_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c98c3e8a0b316e34ca1a7fc8087ec172
+    - name: 02-KingHuman_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 4860027d5f151c04887ab86d562adde9
+    - name: 02-KingHuman_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: a535e66052d8fdb44b3bc02fb9856913
+    - name: 02-KingHuman_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 1f7a87ad65256454ebd3118f2d590345
+    - name: 02-KingHuman_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 00595b061e3ebe6408ae605e269a6cc1
+    - name: 02-KingHuman_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c939a7fcd6678f247a11f7228ec06b08
+    - name: 02-KingHuman_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: b0b654b27a450d249b914421468ccaeb
+    - name: 02-KingHuman_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 0f84aaf48dda20940a7f3a6e05d7923a
+    - name: 02-KingHuman_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 91f15116ff4e2b54dbae028323098bef
+    - name: 02-KingHuman_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 8ae628259301e2a4e8fbb1b71114b41a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}
